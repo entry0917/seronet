@@ -92,7 +92,7 @@ form.gsc-search-box,table.gsc-search-box
 
 button.gsc-search-button
 {
-    padding:10px !important;
+    padding:-0px !important;
     background-color: #000 !important;
-    border-radius: 3px !important;
+    border-radius: 0px !important;
 }
