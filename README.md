@@ -1,2 +1,1 @@
-# seronet
-sero web version.
+# seromobile
